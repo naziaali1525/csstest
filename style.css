@@ -1,0 +1,114 @@
+
+.nav-item  {
+    color: blue !important;
+}
+
+button{
+   
+    position: relative;
+    left: 250px;
+    border-radius: 0 !important;
+    
+    
+
+}
+
+.btn {
+    color: #794ebf !important;
+
+  
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+   
+}
+.card-body1 {
+    background-color: #ff6d56;
+    color: white;
+    padding: 10px;
+ 
+}
+.card {
+    margin: 20px;
+}
+.card-body2 {
+    background-color: #fbc227;
+    color: white;
+    padding: 10px;
+}
+.card-body3 {
+    background-color: #ea3a3a;
+    color: white;
+    padding: 10px;
+}
+.card-body4 {
+    background-color: #2176ff;
+    color: white;
+    padding: 10px;
+}
+.card-body5 {
+    background-color: #fa99b4;
+    color: white;
+    padding: 10px;
+}
+.card-body6 {
+    background-color: #42cdb2;
+    color: white;
+    padding: 10px;
+}
+.card-body7 {
+    background-color: #3ec446;
+    color: white;
+    padding: 10px;
+}
+.card-body8 {
+    background-color:#fbc227;
+    color: white;
+    padding: 10px;
+   
+}
+.card-body9 {
+    background-color:#ff6d56;
+    color: white;
+    padding: 10px;
+   
+}
+.card-body10 {
+    background-color:#2176ff;
+    color: white;
+    padding: 10px;
+   
+}
+.card-body11 {
+    background-color:#ea3a3a;
+    color: white;
+    padding: 10px;
+   
+}
+.card-body12 {
+    background-color:#fa99b4;
+    color: white;
+    padding: 10px;
+   
+}
+
+.card > div:hover {
+    background-color: #21303b;
+    cursor: pointer;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 80px;
+    margin: 90px;
+
+}
+.flex-container > div {
+        min-width:  100px;
+     
+       
+      
+}
